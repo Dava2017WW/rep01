@@ -1,4 +1,6 @@
 初始测试文件，第一次修改,使用vim
+记录地址SSH：git@github.com:Dava2017WW/rep01.git
+https地址：https://github.com/Dava2017WW/rep01.git
 
 
 
