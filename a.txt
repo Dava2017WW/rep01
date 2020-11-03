@@ -1,1 +1,6 @@
 //添加注释提交
+public class A{
+   public static void main(string[] args){
+	System.out.print("输出");
+	}
+}
